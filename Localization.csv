@@ -1,24 +1,1 @@
-KEY,English,Japanese,Chinese,Chinese-Simplified,Korean,Spanish,French,German,Italian,Russian,Arabic,Persian-Farsi,Norwegian
-Start,??,Start,??,??,??,??,??,??
-Start Game,??,??,??,??,??
-Next,
-Back,
-Continue,
-Restart,
-Restart Level,
-Try Again?,
-Home,
-Main Menu,
-Menu,
-Yes,
-No,
-Okay,
-Cancel,
-Buy,
-Buy now,
-Coin,
-Coins,
-Key,
-Keys,
-Awesome,
-Fight!,
+KEY,English,Japanese,Chinese,Chinese-Simplified,Korean,Spanish,French,German,Italian,Russian,Arabic,Persian-Farsi,Norwegian,TurkishStart,??,Start,??,??,??,??,??,??,,,,,,Ba_laStart Game,??,??,??,??,??,,,,,,,,,Oyuna Ba_laNext,,,,,,,,,,,,,,SonrakiBack,,,,,,,,,,,,,,Geri DönContinue,,,,,,,,,,,,,,Devam EtRestart,,,,,,,,,,,,,,Yeniden Ba_laRestart Level,,,,,,,,,,,,,,Bölüme Yeniden Ba_laTry Again?,,,,,,,,,,,,,,Tekrar Dene?Home,,,,,,,,,,,,,,Ana EkranMain Menu,,,,,,,,,,,,,,Ana MenüMenu,,,,,,,,,,,,,,MenüYes,,,,,,,,,,,,,,EvetNo,,,,,,,,,,,,,,HayırOkay,,,,,,,,,,,,,,TamamCancel,,,,,,,,,,,,,,_ptalBuy,,,,,,,,,,,,,,Satın AlBuy now,,,,,,,,,,,,,,Hemen Satın AlCoin,,,,,,,,,,,,,,AltınCoins,,,,,,,,,,,,,,AltınKey,,,,,,,,,,,,,,AnahtarKeys,,,,,,,,,,,,,,AnahtarlarAwesome,,,,,,,,,,,,,,HarikaFight!,,,,,,,,,,,,,,Dövü_!
